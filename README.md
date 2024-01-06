@@ -10,8 +10,11 @@
 - 📊 R Programming: Data analysis, visualization, and statistical modeling
 
 ## Let's Connect!
+- Reach out to me for collaborations or just a chat.
+- 📧 Email: [anusha.venkat2004@gmail.com](mailto:anusha.venkat2004@gmail.com)
 
-📧 Email: [anusha.venkat2004@gmail.com](mailto:anusha.venkat2004@gmail.com)
+
+
 
 
 
