@@ -1,6 +1,6 @@
 # <h2 align="center">Hey, I'm Anusha 👋</h2>
 
-### <h2 align="center">I like to analyze and learn</h2>
+## <h2 align="center">I like to analyze and create</h2>
 
 🎨I’m looking to collaborate on creative, innovative projects.
 
