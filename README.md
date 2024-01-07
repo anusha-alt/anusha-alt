@@ -25,6 +25,12 @@
 - 📧 Email: [anusha.venkat2004@gmail.com](mailto:anusha.venkat2004@gmail.com)
 
 
+<a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://www.linkedin.com/in/anusha-v-077a6827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn" style="height: 40px; width: 40px; border-radius: 50%;">
+</a>
+
+
+
 
 
 
