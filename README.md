@@ -11,11 +11,10 @@ I like to analyze and create
 
 ## Languages and Tools:
 
-![Selenium](URL_FOR_SELENIUM_ICON) `Selenium`
-![Python](URL_FOR_PYTHON_ICON) `Python`
-![Java](URL_FOR_JAVA_ICON) `Java`
-![C](URL_FOR_C_ICON) `C`
-![R](URL_FOR_R_ICON) `R`
+![Selenium](https://www.selenium.dev/documentation/test_practices/overview/) `Selenium`
+![Python](https://www.python.org/) `Python`
+![Java](https://www.java.com/en/) `Java`
+
 
 ## Let's Connect!
 
