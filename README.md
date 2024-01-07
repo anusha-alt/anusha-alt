@@ -11,16 +11,18 @@ I like to analyze and create
 
 ## Languages and Tools:
 
-![Selenium](https://www.selenium.dev/documentation/test_practices/overview/) `Selenium`
-![Python](https://www.python.org/) `Python`
-![Java](https://www.java.com/en/) `Java`
-
+![Selenium](https://img.shields.io/badge/-Selenium-%23green?style=flat&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/-R-%23276DC3?style=flat&logo=r&logoColor=white)
 
 ## Let's Connect!
 
 - Reach out to me for collaborations or just a chat.
-- 📧 Email: [anusha.venkat2004@gmail.com](mailto:anusha.venkat2004@gmail.com)
-- 🔗 LinkedIn: [![LinkedIn](URL_FOR_LINKEDIN_ICON)](YOUR_LINKEDIN_PROFILE_LINK)
+- 📧 Email: [![Email](https://img.shields.io/badge/Email-anusha.venkat2004%40gmail.com-blue)](mailto:anusha.venkat2004@gmail.com)
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-v-077a6827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
   
 
