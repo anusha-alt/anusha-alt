@@ -16,6 +16,8 @@ I like to analyze and create
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/-R-%23276DC3?style=flat&logo=r&logoColor=white)
+![WebDriver](https://img.shields.io/badge/-WebDriver-%23green?style=flat&logo=selenium&logoColor=white)
+
 
 ## Let's Connect!
 
