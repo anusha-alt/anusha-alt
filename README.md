@@ -1,33 +1,29 @@
-# <h2 align="center">Hey, I'm Anusha 👋</h2>
+# Hey, I'm Anusha 👋
 
-<h2 align="center"> I like to analyze and create </h2>
+I like to analyze and create
 
-🎨I’m looking to collaborate on creative, innovative projects.
+🧑‍💼 I'm looking to collaborate on creative, innovative projects.
 
 ## My Interests
-- 📝 Technical writing
-- 🤖 Automation Testing 
 
+- 📝 Technical writing
+- 🤖 Automation Testing
 
 ## Languages and Tools:
 
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org)
-
-
+![Selenium](URL_FOR_SELENIUM_ICON) `Selenium`
+![Python](URL_FOR_PYTHON_ICON) `Python`
+![Java](URL_FOR_JAVA_ICON) `Java`
+![C](URL_FOR_C_ICON) `C`
+![R](URL_FOR_R_ICON) `R`
 
 ## Let's Connect!
+
 - Reach out to me for collaborations or just a chat.
 - 📧 Email: [anusha.venkat2004@gmail.com](mailto:anusha.venkat2004@gmail.com)
+- 🔗 LinkedIn: [![LinkedIn](URL_FOR_LINKEDIN_ICON)](YOUR_LINKEDIN_PROFILE_LINK)
 
-
-<a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://www.linkedin.com/in/anusha-v-077a6827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn" style="height: 40px; width: 40px; border-radius: 50%;">
-</a>
+  
 
 
 
