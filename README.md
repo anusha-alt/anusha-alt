@@ -4,10 +4,7 @@ I like to analyze and create
 
 🧑‍💼 I'm looking to collaborate on creative, innovative projects.
 
-## My Interests
 
-- 📝 Technical writing
-- 🤖 Automation Testing
 
 ## Languages and Tools:
 
