@@ -14,6 +14,8 @@ I like to analyze and create
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/-R-%23276DC3?style=flat&logo=r&logoColor=white)
 ![WebDriver](https://img.shields.io/badge/-WebDriver-%23green?style=flat&logo=selenium&logoColor=white)
+![Solidity](https://soliditylang.org/)
+
 
 
 ## Let's Connect!
