@@ -17,6 +17,7 @@ I like to analyze and create
 ![XML](https://img.shields.io/badge/-XML-%23e34c26?style=flat&logo=file-type-xml&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-%23007ACC?style=flat&logo=sqlite&logoColor=white)
+![JavaScript]()
 
 
 
