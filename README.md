@@ -26,7 +26,7 @@ I like to analyze and create
 ![Assembly](https://img.shields.io/badge/-Assembly-%2300599C?style=flat&logo=hackaday&logoColor=white)
 
 <!-- Frameworks -->
-##Frameworks:
+## Frameworks:
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
@@ -36,7 +36,7 @@ I like to analyze and create
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
 
 <!-- Databases -->
-##Databases:
+## Databases:
 ![SQLite](https://img.shields.io/badge/-SQLite-%2307405e?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
@@ -44,7 +44,7 @@ I like to analyze and create
 ![Room](https://img.shields.io/badge/-Room-%2300A98F?style=flat&logo=android&logoColor=white)
 
 <!-- Tools -->
-##Tools:
+## Tools:
 ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat&logo=selenium&logoColor=white)
 ![WebDriver](https://img.shields.io/badge/-WebDriver-%23green?style=flat&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
@@ -60,7 +60,7 @@ I like to analyze and create
 ![REST API](https://img.shields.io/badge/-REST%20API-%23000000?style=flat&logo=fastapi&logoColor=white)
 
 <!-- Cloud -->
-##Cloud:
+## Cloud:
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-%234285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-%230072C6?style=flat&logo=microsoft-azure&logoColor=white)
